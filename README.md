@@ -18,8 +18,11 @@
 
 ### Documentation
 ![Postman Documentation](images/Movies_SS_page-0001.jpg)
+
 ![Postman Documentation](images/Movies_SS_page-0002.jpg)
+
 ![Postman Documentation](images/Movies_SS_page-0003.jpg)
+
 ![Postman Documentation](images/Movies_SS_page-0004.jpg)
 
 ### Links
